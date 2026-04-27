@@ -254,11 +254,11 @@ Export each view as a `.csv` file into the `data/views/` folder. These CSV files
 
 ## Author
 
-**[Your Name]**
-M.Sc. Data Science · Junior Data Analyst
-📧 [your.email@example.com]
-🔗 [LinkedIn Profile URL]
-🐙 [GitHub Profile URL]
+**Md Shafayet Hossen Chowdhury**
+M.Sc. Data Science · Data Analyst Enthusiast
+📧 [mdshfayet.chowdury@gmail.com.com]
+🔗 [[LinkedIn Profile URL](https://www.linkedin.com/in/mdshafayet/)]
+
 
 ***
 
