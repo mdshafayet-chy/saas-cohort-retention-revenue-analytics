@@ -179,7 +179,7 @@ NRR and GRR split by plan and acquisition channel.
 ### Dashboard 1 - SaaS_Cohort_Revenue_Retention_Analytics_Overview
 
 The main executive summary dashboard. Shows all primary KPIs (Logo Retention M12, NRR M12, GRR M12, Quick Ratio, Blended MRR), a full cohort heatmap (cohort × months since signup), MRR waterfall, NRR trajectory for oldest cohorts, MRR decay curves, and a segment summary by channel and plan.
-![SaaS Cohort & Revenue Retention Analytics Overview](dashboards/SaaS Cohort Revenue Retention Analytics Overview.png)
+![SaaS Cohort & Revenue Retention Analytics Overview](dashboards/SaaS_Cohort_Revenue_Retention_Analytics_Overview.png)
 
 
 
