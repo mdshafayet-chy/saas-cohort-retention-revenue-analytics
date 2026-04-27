@@ -53,7 +53,7 @@ The goal was to answer a core business question: **Which customers stay, which c
 | Raw Data | CSV files | `accounts.csv`, `account_month_mrr.csv` |
 | Data Modeling | MySQL Workbench | SQL views for cohort construction |
 | Visualization | Microsoft Power BI | 3 interactive dashboards |
-| Metrics | NRR, GRR, Logo Retention, Quick Ratio | Industry-standard SaaS KPIs |
+| Metrics | NRR, GRR, Logo Retention, Quick Ratio | standard SaaS KPIs |
 
 ***
 
