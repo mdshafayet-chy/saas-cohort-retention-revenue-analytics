@@ -2,6 +2,18 @@
 
 > **End-to-end portfolio project** · MySQL · Power BI · Cohort Analysis · NRR · GRR · Logo Retention
 
+> ## Table of Contents
+- [Project Overview](#project-overview)
+- [Key Findings](#key-findings)
+- [Tech Stack](#tech-stack)
+- [Repository Structure](#repository-structure)
+- [Data Model](#data-model)
+- [Metric Definitions](#metric-definitions)
+- [Power BI Dashboards](#power-bi-dashboards)
+- [How to Reproduce](#how-to-reproduce)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Author](#author)
+
 ***
 
 ## Project Overview
