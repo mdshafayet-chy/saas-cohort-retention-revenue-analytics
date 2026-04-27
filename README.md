@@ -62,12 +62,12 @@ The goal was to answer a core business question: **Which customers stay, which c
 ```
 saas-cohort-retention-analytics/
 │
-├── README.md                          ← This file
+├── README.md                          
 │
 ├── data/
 │   ├── raw/
-│   │   ├── accounts.csv               ← Account master: account_id, plan, channel, signup_date
-│   │   └── account_month_mrr.csv      ← Monthly MRR per account (Jan 2023 – Dec 2024)
+│   │   ├── accounts.csv               
+│   │   └── account_month_mrr.csv      
 │   │
 │   └── views/                         ← Exported MySQL view outputs (used as Power BI sources)
 │       ├── account_cohort_view.csv
@@ -89,9 +89,9 @@ saas-cohort-retention-analytics/
 │   └── saas_cohort_analytics.pbix     ← Power BI report file
 │
 └── dashboards/
-    ├── 01_cohort_benchmarks.png        ← Dashboard 1 screenshot
-    ├── 02_segment_analysis.png         ← Dashboard 2 screenshot
-    └── 03_saas_overview.png            ← Dashboard 3 screenshot
+    ├── SaaS_Cohort_Revenue_Retention_Analytics_Overview.png        
+    ├── Segment_Analysis_Channel_Plan.png     
+    └── Cohort_Benchmarks_All_24_Cohorts.png            
 ```
 
 ***
@@ -194,7 +194,6 @@ The main executive summary dashboard. Shows all primary KPIs (Logo Retention M12
 ![SaaS Cohort & Revenue Retention Analytics Overview](dashboards/SaaS_Cohort_Revenue_Retention_Analytics_Overview.png)
 
 
-
 ***
 
 ### Dashboard 2 — Segment Analysis (Channel × Plan)
@@ -202,15 +201,12 @@ The main executive summary dashboard. Shows all primary KPIs (Logo Retention M12
 Side-by-side comparison of all 24 cohorts. Includes KPI cards for best/worst cohort and portfolio averages, bar charts for Logo Retention M12, NRR M12, and Start MRR by cohort, ranked Top 5 / Bottom 5 cohort tables, and the full benchmark data table with M3/M6/M12 metrics.
 ![Segment Analysis -- Channel x Plan](dashboards/Segment_Analysis_Channel_Plan.png)
 
-
-
 ***
 
 ### Dashboard 3 — Cohort Benchmarks (All 24 Cohorts) 
 
 Drill-down into the 12 plan × channel segments (3 plans × 4 channels). Includes NRR and GRR matrix tables, trajectory line charts M0 → M12, grouped bar charts at M6, logo retention curves, a churn-risk scatter plot (NRR vs logo retention), and active account counts at M12. Filterable by Initial Plan and Acquisition Channel slicers.
 ![Cohort Benchmarks -- All 24 Cohorts](dashboards/Cohort_Benchmarks_All_24_Cohorts.png)
-
 
 ***
 
