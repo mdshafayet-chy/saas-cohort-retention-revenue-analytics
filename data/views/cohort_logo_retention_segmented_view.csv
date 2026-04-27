@@ -1,0 +1,1001 @@
+cohort_month,months_since_cohort,initial_plan,acquisition_channel,accounts_in_cohort,active_accounts,logo_retention_rate_pct
+2023-01-01,0,Basic,Organic,13,13,1.0000
+2023-01-01,0,Basic,Outbound,5,5,1.0000
+2023-01-01,0,Basic,"Paid Search",10,10,1.0000
+2023-01-01,0,Basic,Partner,6,6,1.0000
+2023-01-01,0,Enterprise,Organic,2,2,1.0000
+2023-01-01,0,Enterprise,Outbound,2,2,1.0000
+2023-01-01,0,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,0,Pro,Organic,10,10,1.0000
+2023-01-01,0,Pro,Outbound,2,2,1.0000
+2023-01-01,0,Pro,"Paid Search",4,4,1.0000
+2023-01-01,0,Pro,Partner,5,5,1.0000
+2023-01-01,1,Basic,Organic,13,13,1.0000
+2023-01-01,1,Basic,Outbound,5,5,1.0000
+2023-01-01,1,Basic,"Paid Search",10,10,1.0000
+2023-01-01,1,Basic,Partner,6,6,1.0000
+2023-01-01,1,Enterprise,Organic,2,2,1.0000
+2023-01-01,1,Enterprise,Outbound,2,2,1.0000
+2023-01-01,1,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,1,Pro,Organic,10,10,1.0000
+2023-01-01,1,Pro,Outbound,2,2,1.0000
+2023-01-01,1,Pro,"Paid Search",4,4,1.0000
+2023-01-01,1,Pro,Partner,5,5,1.0000
+2023-01-01,2,Basic,Organic,13,12,0.9231
+2023-01-01,2,Basic,Outbound,5,4,0.8000
+2023-01-01,2,Basic,"Paid Search",10,9,0.9000
+2023-01-01,2,Basic,Partner,6,5,0.8333
+2023-01-01,2,Enterprise,Organic,2,2,1.0000
+2023-01-01,2,Enterprise,Outbound,2,2,1.0000
+2023-01-01,2,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,2,Pro,Organic,10,9,0.9000
+2023-01-01,2,Pro,Outbound,2,2,1.0000
+2023-01-01,2,Pro,"Paid Search",4,4,1.0000
+2023-01-01,2,Pro,Partner,5,4,0.8000
+2023-01-01,3,Basic,Organic,13,10,0.7692
+2023-01-01,3,Basic,Outbound,5,4,0.8000
+2023-01-01,3,Basic,"Paid Search",10,9,0.9000
+2023-01-01,3,Basic,Partner,6,5,0.8333
+2023-01-01,3,Enterprise,Organic,2,2,1.0000
+2023-01-01,3,Enterprise,Outbound,2,2,1.0000
+2023-01-01,3,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,3,Pro,Organic,10,9,0.9000
+2023-01-01,3,Pro,Outbound,2,2,1.0000
+2023-01-01,3,Pro,"Paid Search",4,4,1.0000
+2023-01-01,3,Pro,Partner,5,3,0.6000
+2023-01-01,4,Basic,Organic,13,8,0.6154
+2023-01-01,4,Basic,Outbound,5,4,0.8000
+2023-01-01,4,Basic,"Paid Search",10,9,0.9000
+2023-01-01,4,Basic,Partner,6,5,0.8333
+2023-01-01,4,Enterprise,Organic,2,2,1.0000
+2023-01-01,4,Enterprise,Outbound,2,2,1.0000
+2023-01-01,4,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,4,Pro,Organic,10,9,0.9000
+2023-01-01,4,Pro,Outbound,2,2,1.0000
+2023-01-01,4,Pro,"Paid Search",4,4,1.0000
+2023-01-01,4,Pro,Partner,5,3,0.6000
+2023-01-01,5,Basic,Organic,13,8,0.6154
+2023-01-01,5,Basic,Outbound,5,4,0.8000
+2023-01-01,5,Basic,"Paid Search",10,7,0.7000
+2023-01-01,5,Basic,Partner,6,5,0.8333
+2023-01-01,5,Enterprise,Organic,2,2,1.0000
+2023-01-01,5,Enterprise,Outbound,2,2,1.0000
+2023-01-01,5,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,5,Pro,Organic,10,9,0.9000
+2023-01-01,5,Pro,Outbound,2,2,1.0000
+2023-01-01,5,Pro,"Paid Search",4,4,1.0000
+2023-01-01,5,Pro,Partner,5,3,0.6000
+2023-01-01,6,Basic,Organic,13,7,0.5385
+2023-01-01,6,Basic,Outbound,5,4,0.8000
+2023-01-01,6,Basic,"Paid Search",10,6,0.6000
+2023-01-01,6,Basic,Partner,6,5,0.8333
+2023-01-01,6,Enterprise,Organic,2,2,1.0000
+2023-01-01,6,Enterprise,Outbound,2,2,1.0000
+2023-01-01,6,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,6,Pro,Organic,10,9,0.9000
+2023-01-01,6,Pro,Outbound,2,2,1.0000
+2023-01-01,6,Pro,"Paid Search",4,4,1.0000
+2023-01-01,6,Pro,Partner,5,3,0.6000
+2023-01-01,7,Basic,Organic,13,6,0.4615
+2023-01-01,7,Basic,Outbound,5,3,0.6000
+2023-01-01,7,Basic,"Paid Search",10,6,0.6000
+2023-01-01,7,Basic,Partner,6,4,0.6667
+2023-01-01,7,Enterprise,Organic,2,2,1.0000
+2023-01-01,7,Enterprise,Outbound,2,2,1.0000
+2023-01-01,7,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,7,Pro,Organic,10,9,0.9000
+2023-01-01,7,Pro,Outbound,2,2,1.0000
+2023-01-01,7,Pro,"Paid Search",4,4,1.0000
+2023-01-01,7,Pro,Partner,5,3,0.6000
+2023-01-01,8,Basic,Organic,13,6,0.4615
+2023-01-01,8,Basic,Outbound,5,3,0.6000
+2023-01-01,8,Basic,"Paid Search",10,6,0.6000
+2023-01-01,8,Basic,Partner,6,4,0.6667
+2023-01-01,8,Enterprise,Organic,2,2,1.0000
+2023-01-01,8,Enterprise,Outbound,2,2,1.0000
+2023-01-01,8,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,8,Pro,Organic,10,9,0.9000
+2023-01-01,8,Pro,Outbound,2,2,1.0000
+2023-01-01,8,Pro,"Paid Search",4,4,1.0000
+2023-01-01,8,Pro,Partner,5,3,0.6000
+2023-01-01,9,Basic,Organic,13,5,0.3846
+2023-01-01,9,Basic,Outbound,5,3,0.6000
+2023-01-01,9,Basic,"Paid Search",10,5,0.5000
+2023-01-01,9,Basic,Partner,6,4,0.6667
+2023-01-01,9,Enterprise,Organic,2,2,1.0000
+2023-01-01,9,Enterprise,Outbound,2,2,1.0000
+2023-01-01,9,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,9,Pro,Organic,10,9,0.9000
+2023-01-01,9,Pro,Outbound,2,2,1.0000
+2023-01-01,9,Pro,"Paid Search",4,3,0.7500
+2023-01-01,9,Pro,Partner,5,3,0.6000
+2023-01-01,10,Basic,Organic,13,5,0.3846
+2023-01-01,10,Basic,Outbound,5,3,0.6000
+2023-01-01,10,Basic,"Paid Search",10,5,0.5000
+2023-01-01,10,Basic,Partner,6,4,0.6667
+2023-01-01,10,Enterprise,Organic,2,2,1.0000
+2023-01-01,10,Enterprise,Outbound,2,1,0.5000
+2023-01-01,10,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,10,Pro,Organic,10,9,0.9000
+2023-01-01,10,Pro,Outbound,2,2,1.0000
+2023-01-01,10,Pro,"Paid Search",4,3,0.7500
+2023-01-01,10,Pro,Partner,5,3,0.6000
+2023-01-01,11,Basic,Organic,13,5,0.3846
+2023-01-01,11,Basic,Outbound,5,3,0.6000
+2023-01-01,11,Basic,"Paid Search",10,5,0.5000
+2023-01-01,11,Basic,Partner,6,4,0.6667
+2023-01-01,11,Enterprise,Organic,2,2,1.0000
+2023-01-01,11,Enterprise,Outbound,2,1,0.5000
+2023-01-01,11,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,11,Pro,Organic,10,9,0.9000
+2023-01-01,11,Pro,Outbound,2,2,1.0000
+2023-01-01,11,Pro,"Paid Search",4,3,0.7500
+2023-01-01,11,Pro,Partner,5,3,0.6000
+2023-01-01,12,Basic,Organic,13,3,0.2308
+2023-01-01,12,Basic,Outbound,5,2,0.4000
+2023-01-01,12,Basic,"Paid Search",10,5,0.5000
+2023-01-01,12,Basic,Partner,6,4,0.6667
+2023-01-01,12,Enterprise,Organic,2,2,1.0000
+2023-01-01,12,Enterprise,Outbound,2,1,0.5000
+2023-01-01,12,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,12,Pro,Organic,10,9,0.9000
+2023-01-01,12,Pro,Outbound,2,2,1.0000
+2023-01-01,12,Pro,"Paid Search",4,3,0.7500
+2023-01-01,12,Pro,Partner,5,3,0.6000
+2023-01-01,13,Basic,Organic,13,3,0.2308
+2023-01-01,13,Basic,Outbound,5,2,0.4000
+2023-01-01,13,Basic,"Paid Search",10,5,0.5000
+2023-01-01,13,Basic,Partner,6,4,0.6667
+2023-01-01,13,Enterprise,Organic,2,2,1.0000
+2023-01-01,13,Enterprise,Outbound,2,1,0.5000
+2023-01-01,13,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,13,Pro,Organic,10,9,0.9000
+2023-01-01,13,Pro,Outbound,2,2,1.0000
+2023-01-01,13,Pro,"Paid Search",4,3,0.7500
+2023-01-01,13,Pro,Partner,5,3,0.6000
+2023-01-01,14,Basic,Organic,13,3,0.2308
+2023-01-01,14,Basic,Outbound,5,2,0.4000
+2023-01-01,14,Basic,"Paid Search",10,4,0.4000
+2023-01-01,14,Basic,Partner,6,3,0.5000
+2023-01-01,14,Enterprise,Organic,2,2,1.0000
+2023-01-01,14,Enterprise,Outbound,2,1,0.5000
+2023-01-01,14,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,14,Pro,Organic,10,9,0.9000
+2023-01-01,14,Pro,Outbound,2,2,1.0000
+2023-01-01,14,Pro,"Paid Search",4,3,0.7500
+2023-01-01,14,Pro,Partner,5,3,0.6000
+2023-01-01,15,Basic,Organic,13,3,0.2308
+2023-01-01,15,Basic,Outbound,5,2,0.4000
+2023-01-01,15,Basic,"Paid Search",10,3,0.3000
+2023-01-01,15,Basic,Partner,6,3,0.5000
+2023-01-01,15,Enterprise,Organic,2,2,1.0000
+2023-01-01,15,Enterprise,Outbound,2,1,0.5000
+2023-01-01,15,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,15,Pro,Organic,10,9,0.9000
+2023-01-01,15,Pro,Outbound,2,2,1.0000
+2023-01-01,15,Pro,"Paid Search",4,2,0.5000
+2023-01-01,15,Pro,Partner,5,3,0.6000
+2023-01-01,16,Basic,Organic,13,3,0.2308
+2023-01-01,16,Basic,Outbound,5,2,0.4000
+2023-01-01,16,Basic,"Paid Search",10,3,0.3000
+2023-01-01,16,Basic,Partner,6,3,0.5000
+2023-01-01,16,Enterprise,Organic,2,2,1.0000
+2023-01-01,16,Enterprise,Outbound,2,1,0.5000
+2023-01-01,16,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,16,Pro,Organic,10,9,0.9000
+2023-01-01,16,Pro,Outbound,2,2,1.0000
+2023-01-01,16,Pro,"Paid Search",4,2,0.5000
+2023-01-01,16,Pro,Partner,5,3,0.6000
+2023-01-01,17,Basic,Organic,13,2,0.1538
+2023-01-01,17,Basic,Outbound,5,2,0.4000
+2023-01-01,17,Basic,"Paid Search",10,3,0.3000
+2023-01-01,17,Basic,Partner,6,3,0.5000
+2023-01-01,17,Enterprise,Organic,2,2,1.0000
+2023-01-01,17,Enterprise,Outbound,2,1,0.5000
+2023-01-01,17,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,17,Pro,Organic,10,9,0.9000
+2023-01-01,17,Pro,Outbound,2,2,1.0000
+2023-01-01,17,Pro,"Paid Search",4,2,0.5000
+2023-01-01,17,Pro,Partner,5,3,0.6000
+2023-01-01,18,Basic,Organic,13,2,0.1538
+2023-01-01,18,Basic,Outbound,5,2,0.4000
+2023-01-01,18,Basic,"Paid Search",10,3,0.3000
+2023-01-01,18,Basic,Partner,6,1,0.1667
+2023-01-01,18,Enterprise,Organic,2,2,1.0000
+2023-01-01,18,Enterprise,Outbound,2,1,0.5000
+2023-01-01,18,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,18,Pro,Organic,10,9,0.9000
+2023-01-01,18,Pro,Outbound,2,2,1.0000
+2023-01-01,18,Pro,"Paid Search",4,2,0.5000
+2023-01-01,18,Pro,Partner,5,3,0.6000
+2023-01-01,19,Basic,Organic,13,2,0.1538
+2023-01-01,19,Basic,Outbound,5,2,0.4000
+2023-01-01,19,Basic,"Paid Search",10,3,0.3000
+2023-01-01,19,Basic,Partner,6,1,0.1667
+2023-01-01,19,Enterprise,Organic,2,2,1.0000
+2023-01-01,19,Enterprise,Outbound,2,1,0.5000
+2023-01-01,19,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,19,Pro,Organic,10,9,0.9000
+2023-01-01,19,Pro,Outbound,2,2,1.0000
+2023-01-01,19,Pro,"Paid Search",4,2,0.5000
+2023-01-01,19,Pro,Partner,5,3,0.6000
+2023-01-01,20,Basic,Organic,13,2,0.1538
+2023-01-01,20,Basic,Outbound,5,2,0.4000
+2023-01-01,20,Basic,"Paid Search",10,3,0.3000
+2023-01-01,20,Basic,Partner,6,1,0.1667
+2023-01-01,20,Enterprise,Organic,2,2,1.0000
+2023-01-01,20,Enterprise,Outbound,2,1,0.5000
+2023-01-01,20,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,20,Pro,Organic,10,9,0.9000
+2023-01-01,20,Pro,Outbound,2,2,1.0000
+2023-01-01,20,Pro,"Paid Search",4,2,0.5000
+2023-01-01,20,Pro,Partner,5,3,0.6000
+2023-01-01,21,Basic,Organic,13,2,0.1538
+2023-01-01,21,Basic,Outbound,5,2,0.4000
+2023-01-01,21,Basic,"Paid Search",10,3,0.3000
+2023-01-01,21,Basic,Partner,6,1,0.1667
+2023-01-01,21,Enterprise,Organic,2,2,1.0000
+2023-01-01,21,Enterprise,Outbound,2,1,0.5000
+2023-01-01,21,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,21,Pro,Organic,10,9,0.9000
+2023-01-01,21,Pro,Outbound,2,2,1.0000
+2023-01-01,21,Pro,"Paid Search",4,2,0.5000
+2023-01-01,21,Pro,Partner,5,3,0.6000
+2023-01-01,22,Basic,Organic,13,2,0.1538
+2023-01-01,22,Basic,Outbound,5,2,0.4000
+2023-01-01,22,Basic,"Paid Search",10,3,0.3000
+2023-01-01,22,Basic,Partner,6,1,0.1667
+2023-01-01,22,Enterprise,Organic,2,1,0.5000
+2023-01-01,22,Enterprise,Outbound,2,1,0.5000
+2023-01-01,22,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,22,Pro,Organic,10,8,0.8000
+2023-01-01,22,Pro,Outbound,2,2,1.0000
+2023-01-01,22,Pro,"Paid Search",4,2,0.5000
+2023-01-01,22,Pro,Partner,5,3,0.6000
+2023-01-01,23,Basic,Organic,13,1,0.0769
+2023-01-01,23,Basic,Outbound,5,1,0.2000
+2023-01-01,23,Basic,"Paid Search",10,3,0.3000
+2023-01-01,23,Basic,Partner,6,1,0.1667
+2023-01-01,23,Enterprise,Organic,2,1,0.5000
+2023-01-01,23,Enterprise,Outbound,2,1,0.5000
+2023-01-01,23,Enterprise,"Paid Search",3,3,1.0000
+2023-01-01,23,Pro,Organic,10,8,0.8000
+2023-01-01,23,Pro,Outbound,2,1,0.5000
+2023-01-01,23,Pro,"Paid Search",4,2,0.5000
+2023-01-01,23,Pro,Partner,5,2,0.4000
+2023-02-01,0,Basic,Organic,9,9,1.0000
+2023-02-01,0,Basic,Outbound,5,5,1.0000
+2023-02-01,0,Basic,"Paid Search",7,7,1.0000
+2023-02-01,0,Basic,Partner,9,9,1.0000
+2023-02-01,0,Enterprise,Organic,2,2,1.0000
+2023-02-01,0,Enterprise,Outbound,2,2,1.0000
+2023-02-01,0,Enterprise,"Paid Search",5,5,1.0000
+2023-02-01,0,Enterprise,Partner,2,2,1.0000
+2023-02-01,0,Pro,Organic,6,6,1.0000
+2023-02-01,0,Pro,Outbound,1,1,1.0000
+2023-02-01,0,Pro,"Paid Search",6,6,1.0000
+2023-02-01,0,Pro,Partner,6,6,1.0000
+2023-02-01,1,Basic,Organic,9,9,1.0000
+2023-02-01,1,Basic,Outbound,5,5,1.0000
+2023-02-01,1,Basic,"Paid Search",7,7,1.0000
+2023-02-01,1,Basic,Partner,9,9,1.0000
+2023-02-01,1,Enterprise,Organic,2,2,1.0000
+2023-02-01,1,Enterprise,Outbound,2,2,1.0000
+2023-02-01,1,Enterprise,"Paid Search",5,5,1.0000
+2023-02-01,1,Enterprise,Partner,2,2,1.0000
+2023-02-01,1,Pro,Organic,6,6,1.0000
+2023-02-01,1,Pro,Outbound,1,1,1.0000
+2023-02-01,1,Pro,"Paid Search",6,6,1.0000
+2023-02-01,1,Pro,Partner,6,6,1.0000
+2023-02-01,2,Basic,Organic,9,9,1.0000
+2023-02-01,2,Basic,Outbound,5,5,1.0000
+2023-02-01,2,Basic,"Paid Search",7,7,1.0000
+2023-02-01,2,Basic,Partner,9,8,0.8889
+2023-02-01,2,Enterprise,Organic,2,2,1.0000
+2023-02-01,2,Enterprise,Outbound,2,2,1.0000
+2023-02-01,2,Enterprise,"Paid Search",5,4,0.8000
+2023-02-01,2,Enterprise,Partner,2,1,0.5000
+2023-02-01,2,Pro,Organic,6,6,1.0000
+2023-02-01,2,Pro,Outbound,1,1,1.0000
+2023-02-01,2,Pro,"Paid Search",6,6,1.0000
+2023-02-01,2,Pro,Partner,6,4,0.6667
+2023-02-01,3,Basic,Organic,9,9,1.0000
+2023-02-01,3,Basic,Outbound,5,4,0.8000
+2023-02-01,3,Basic,"Paid Search",7,7,1.0000
+2023-02-01,3,Basic,Partner,9,7,0.7778
+2023-02-01,3,Enterprise,Organic,2,2,1.0000
+2023-02-01,3,Enterprise,Outbound,2,2,1.0000
+2023-02-01,3,Enterprise,"Paid Search",5,4,0.8000
+2023-02-01,3,Enterprise,Partner,2,1,0.5000
+2023-02-01,3,Pro,Organic,6,6,1.0000
+2023-02-01,3,Pro,Outbound,1,1,1.0000
+2023-02-01,3,Pro,"Paid Search",6,6,1.0000
+2023-02-01,3,Pro,Partner,6,4,0.6667
+2023-02-01,4,Basic,Organic,9,8,0.8889
+2023-02-01,4,Basic,Outbound,5,4,0.8000
+2023-02-01,4,Basic,"Paid Search",7,4,0.5714
+2023-02-01,4,Basic,Partner,9,7,0.7778
+2023-02-01,4,Enterprise,Organic,2,2,1.0000
+2023-02-01,4,Enterprise,Outbound,2,2,1.0000
+2023-02-01,4,Enterprise,"Paid Search",5,4,0.8000
+2023-02-01,4,Enterprise,Partner,2,1,0.5000
+2023-02-01,4,Pro,Organic,6,6,1.0000
+2023-02-01,4,Pro,Outbound,1,1,1.0000
+2023-02-01,4,Pro,"Paid Search",6,6,1.0000
+2023-02-01,4,Pro,Partner,6,3,0.5000
+2023-02-01,5,Basic,Organic,9,8,0.8889
+2023-02-01,5,Basic,Outbound,5,4,0.8000
+2023-02-01,5,Basic,"Paid Search",7,4,0.5714
+2023-02-01,5,Basic,Partner,9,6,0.6667
+2023-02-01,5,Enterprise,Organic,2,2,1.0000
+2023-02-01,5,Enterprise,Outbound,2,2,1.0000
+2023-02-01,5,Enterprise,"Paid Search",5,4,0.8000
+2023-02-01,5,Enterprise,Partner,2,1,0.5000
+2023-02-01,5,Pro,Organic,6,6,1.0000
+2023-02-01,5,Pro,Outbound,1,1,1.0000
+2023-02-01,5,Pro,"Paid Search",6,6,1.0000
+2023-02-01,5,Pro,Partner,6,3,0.5000
+2023-02-01,6,Basic,Organic,9,8,0.8889
+2023-02-01,6,Basic,Outbound,5,3,0.6000
+2023-02-01,6,Basic,"Paid Search",7,4,0.5714
+2023-02-01,6,Basic,Partner,9,5,0.5556
+2023-02-01,6,Enterprise,Organic,2,2,1.0000
+2023-02-01,6,Enterprise,Outbound,2,2,1.0000
+2023-02-01,6,Enterprise,"Paid Search",5,4,0.8000
+2023-02-01,6,Enterprise,Partner,2,1,0.5000
+2023-02-01,6,Pro,Organic,6,6,1.0000
+2023-02-01,6,Pro,Outbound,1,1,1.0000
+2023-02-01,6,Pro,"Paid Search",6,6,1.0000
+2023-02-01,6,Pro,Partner,6,3,0.5000
+2023-02-01,7,Basic,Organic,9,7,0.7778
+2023-02-01,7,Basic,Outbound,5,3,0.6000
+2023-02-01,7,Basic,"Paid Search",7,4,0.5714
+2023-02-01,7,Basic,Partner,9,4,0.4444
+2023-02-01,7,Enterprise,Organic,2,2,1.0000
+2023-02-01,7,Enterprise,Outbound,2,2,1.0000
+2023-02-01,7,Enterprise,"Paid Search",5,3,0.6000
+2023-02-01,7,Enterprise,Partner,2,1,0.5000
+2023-02-01,7,Pro,Organic,6,4,0.6667
+2023-02-01,7,Pro,Outbound,1,1,1.0000
+2023-02-01,7,Pro,"Paid Search",6,6,1.0000
+2023-02-01,7,Pro,Partner,6,3,0.5000
+2023-02-01,8,Basic,Organic,9,7,0.7778
+2023-02-01,8,Basic,Outbound,5,3,0.6000
+2023-02-01,8,Basic,"Paid Search",7,4,0.5714
+2023-02-01,8,Basic,Partner,9,4,0.4444
+2023-02-01,8,Enterprise,Organic,2,2,1.0000
+2023-02-01,8,Enterprise,Outbound,2,2,1.0000
+2023-02-01,8,Enterprise,"Paid Search",5,3,0.6000
+2023-02-01,8,Enterprise,Partner,2,1,0.5000
+2023-02-01,8,Pro,Organic,6,4,0.6667
+2023-02-01,8,Pro,Outbound,1,1,1.0000
+2023-02-01,8,Pro,"Paid Search",6,6,1.0000
+2023-02-01,8,Pro,Partner,6,3,0.5000
+2023-02-01,9,Basic,Organic,9,7,0.7778
+2023-02-01,9,Basic,Outbound,5,3,0.6000
+2023-02-01,9,Basic,"Paid Search",7,4,0.5714
+2023-02-01,9,Basic,Partner,9,4,0.4444
+2023-02-01,9,Enterprise,Organic,2,2,1.0000
+2023-02-01,9,Enterprise,Outbound,2,2,1.0000
+2023-02-01,9,Enterprise,"Paid Search",5,3,0.6000
+2023-02-01,9,Enterprise,Partner,2,1,0.5000
+2023-02-01,9,Pro,Organic,6,4,0.6667
+2023-02-01,9,Pro,Outbound,1,1,1.0000
+2023-02-01,9,Pro,"Paid Search",6,6,1.0000
+2023-02-01,9,Pro,Partner,6,3,0.5000
+2023-02-01,10,Basic,Organic,9,7,0.7778
+2023-02-01,10,Basic,Outbound,5,3,0.6000
+2023-02-01,10,Basic,"Paid Search",7,3,0.4286
+2023-02-01,10,Basic,Partner,9,4,0.4444
+2023-02-01,10,Enterprise,Organic,2,2,1.0000
+2023-02-01,10,Enterprise,Outbound,2,2,1.0000
+2023-02-01,10,Enterprise,"Paid Search",5,3,0.6000
+2023-02-01,10,Enterprise,Partner,2,1,0.5000
+2023-02-01,10,Pro,Organic,6,4,0.6667
+2023-02-01,10,Pro,Outbound,1,1,1.0000
+2023-02-01,10,Pro,"Paid Search",6,6,1.0000
+2023-02-01,10,Pro,Partner,6,3,0.5000
+2023-02-01,11,Basic,Organic,9,7,0.7778
+2023-02-01,11,Basic,Outbound,5,3,0.6000
+2023-02-01,11,Basic,"Paid Search",7,3,0.4286
+2023-02-01,11,Basic,Partner,9,4,0.4444
+2023-02-01,11,Enterprise,Organic,2,2,1.0000
+2023-02-01,11,Enterprise,Outbound,2,2,1.0000
+2023-02-01,11,Enterprise,"Paid Search",5,3,0.6000
+2023-02-01,11,Enterprise,Partner,2,1,0.5000
+2023-02-01,11,Pro,Organic,6,4,0.6667
+2023-02-01,11,Pro,Outbound,1,1,1.0000
+2023-02-01,11,Pro,"Paid Search",6,6,1.0000
+2023-02-01,11,Pro,Partner,6,3,0.5000
+2023-02-01,12,Basic,Organic,9,6,0.6667
+2023-02-01,12,Basic,Outbound,5,3,0.6000
+2023-02-01,12,Basic,"Paid Search",7,3,0.4286
+2023-02-01,12,Basic,Partner,9,4,0.4444
+2023-02-01,12,Enterprise,Organic,2,2,1.0000
+2023-02-01,12,Enterprise,Outbound,2,2,1.0000
+2023-02-01,12,Enterprise,"Paid Search",5,3,0.6000
+2023-02-01,12,Enterprise,Partner,2,1,0.5000
+2023-02-01,12,Pro,Organic,6,4,0.6667
+2023-02-01,12,Pro,Outbound,1,1,1.0000
+2023-02-01,12,Pro,"Paid Search",6,6,1.0000
+2023-02-01,12,Pro,Partner,6,3,0.5000
+2023-02-01,13,Basic,Organic,9,6,0.6667
+2023-02-01,13,Basic,Outbound,5,3,0.6000
+2023-02-01,13,Basic,"Paid Search",7,3,0.4286
+2023-02-01,13,Basic,Partner,9,4,0.4444
+2023-02-01,13,Enterprise,Organic,2,2,1.0000
+2023-02-01,13,Enterprise,Outbound,2,2,1.0000
+2023-02-01,13,Enterprise,"Paid Search",5,3,0.6000
+2023-02-01,13,Enterprise,Partner,2,1,0.5000
+2023-02-01,13,Pro,Organic,6,4,0.6667
+2023-02-01,13,Pro,Outbound,1,1,1.0000
+2023-02-01,13,Pro,"Paid Search",6,6,1.0000
+2023-02-01,13,Pro,Partner,6,3,0.5000
+2023-02-01,14,Basic,Organic,9,6,0.6667
+2023-02-01,14,Basic,Outbound,5,3,0.6000
+2023-02-01,14,Basic,"Paid Search",7,2,0.2857
+2023-02-01,14,Basic,Partner,9,4,0.4444
+2023-02-01,14,Enterprise,Organic,2,2,1.0000
+2023-02-01,14,Enterprise,Outbound,2,2,1.0000
+2023-02-01,14,Enterprise,"Paid Search",5,3,0.6000
+2023-02-01,14,Enterprise,Partner,2,1,0.5000
+2023-02-01,14,Pro,Organic,6,4,0.6667
+2023-02-01,14,Pro,Outbound,1,1,1.0000
+2023-02-01,14,Pro,"Paid Search",6,6,1.0000
+2023-02-01,14,Pro,Partner,6,2,0.3333
+2023-02-01,15,Basic,Organic,9,5,0.5556
+2023-02-01,15,Basic,Outbound,5,3,0.6000
+2023-02-01,15,Basic,"Paid Search",7,2,0.2857
+2023-02-01,15,Basic,Partner,9,4,0.4444
+2023-02-01,15,Enterprise,Organic,2,2,1.0000
+2023-02-01,15,Enterprise,Outbound,2,2,1.0000
+2023-02-01,15,Enterprise,"Paid Search",5,3,0.6000
+2023-02-01,15,Enterprise,Partner,2,1,0.5000
+2023-02-01,15,Pro,Organic,6,4,0.6667
+2023-02-01,15,Pro,Outbound,1,1,1.0000
+2023-02-01,15,Pro,"Paid Search",6,6,1.0000
+2023-02-01,15,Pro,Partner,6,2,0.3333
+2023-02-01,16,Basic,Organic,9,5,0.5556
+2023-02-01,16,Basic,Outbound,5,2,0.4000
+2023-02-01,16,Basic,"Paid Search",7,2,0.2857
+2023-02-01,16,Basic,Partner,9,4,0.4444
+2023-02-01,16,Enterprise,Organic,2,2,1.0000
+2023-02-01,16,Enterprise,Outbound,2,2,1.0000
+2023-02-01,16,Enterprise,"Paid Search",5,3,0.6000
+2023-02-01,16,Enterprise,Partner,2,1,0.5000
+2023-02-01,16,Pro,Organic,6,4,0.6667
+2023-02-01,16,Pro,Outbound,1,1,1.0000
+2023-02-01,16,Pro,"Paid Search",6,5,0.8333
+2023-02-01,16,Pro,Partner,6,2,0.3333
+2023-02-01,17,Basic,Organic,9,5,0.5556
+2023-02-01,17,Basic,Outbound,5,2,0.4000
+2023-02-01,17,Basic,"Paid Search",7,2,0.2857
+2023-02-01,17,Basic,Partner,9,4,0.4444
+2023-02-01,17,Enterprise,Organic,2,2,1.0000
+2023-02-01,17,Enterprise,Outbound,2,2,1.0000
+2023-02-01,17,Enterprise,"Paid Search",5,3,0.6000
+2023-02-01,17,Enterprise,Partner,2,1,0.5000
+2023-02-01,17,Pro,Organic,6,4,0.6667
+2023-02-01,17,Pro,Outbound,1,1,1.0000
+2023-02-01,17,Pro,"Paid Search",6,5,0.8333
+2023-02-01,17,Pro,Partner,6,2,0.3333
+2023-02-01,18,Basic,Organic,9,5,0.5556
+2023-02-01,18,Basic,Outbound,5,2,0.4000
+2023-02-01,18,Basic,"Paid Search",7,2,0.2857
+2023-02-01,18,Basic,Partner,9,3,0.3333
+2023-02-01,18,Enterprise,Organic,2,2,1.0000
+2023-02-01,18,Enterprise,Outbound,2,2,1.0000
+2023-02-01,18,Enterprise,"Paid Search",5,3,0.6000
+2023-02-01,18,Enterprise,Partner,2,1,0.5000
+2023-02-01,18,Pro,Organic,6,4,0.6667
+2023-02-01,18,Pro,Outbound,1,1,1.0000
+2023-02-01,18,Pro,"Paid Search",6,4,0.6667
+2023-02-01,18,Pro,Partner,6,2,0.3333
+2023-02-01,19,Basic,Organic,9,5,0.5556
+2023-02-01,19,Basic,Outbound,5,2,0.4000
+2023-02-01,19,Basic,"Paid Search",7,2,0.2857
+2023-02-01,19,Basic,Partner,9,3,0.3333
+2023-02-01,19,Enterprise,Organic,2,2,1.0000
+2023-02-01,19,Enterprise,Outbound,2,2,1.0000
+2023-02-01,19,Enterprise,"Paid Search",5,3,0.6000
+2023-02-01,19,Enterprise,Partner,2,1,0.5000
+2023-02-01,19,Pro,Organic,6,4,0.6667
+2023-02-01,19,Pro,Outbound,1,1,1.0000
+2023-02-01,19,Pro,"Paid Search",6,4,0.6667
+2023-02-01,19,Pro,Partner,6,2,0.3333
+2023-02-01,20,Basic,Organic,9,5,0.5556
+2023-02-01,20,Basic,Outbound,5,1,0.2000
+2023-02-01,20,Basic,"Paid Search",7,2,0.2857
+2023-02-01,20,Basic,Partner,9,3,0.3333
+2023-02-01,20,Enterprise,Organic,2,2,1.0000
+2023-02-01,20,Enterprise,Outbound,2,2,1.0000
+2023-02-01,20,Enterprise,"Paid Search",5,3,0.6000
+2023-02-01,20,Enterprise,Partner,2,1,0.5000
+2023-02-01,20,Pro,Organic,6,4,0.6667
+2023-02-01,20,Pro,Outbound,1,1,1.0000
+2023-02-01,20,Pro,"Paid Search",6,4,0.6667
+2023-02-01,20,Pro,Partner,6,2,0.3333
+2023-02-01,21,Basic,Organic,9,4,0.4444
+2023-02-01,21,Basic,Outbound,5,1,0.2000
+2023-02-01,21,Basic,"Paid Search",7,1,0.1429
+2023-02-01,21,Basic,Partner,9,3,0.3333
+2023-02-01,21,Enterprise,Organic,2,2,1.0000
+2023-02-01,21,Enterprise,Outbound,2,1,0.5000
+2023-02-01,21,Enterprise,"Paid Search",5,2,0.4000
+2023-02-01,21,Enterprise,Partner,2,1,0.5000
+2023-02-01,21,Pro,Organic,6,4,0.6667
+2023-02-01,21,Pro,Outbound,1,1,1.0000
+2023-02-01,21,Pro,"Paid Search",6,4,0.6667
+2023-02-01,21,Pro,Partner,6,2,0.3333
+2023-02-01,22,Basic,Organic,9,4,0.4444
+2023-02-01,22,Basic,Outbound,5,1,0.2000
+2023-02-01,22,Basic,"Paid Search",7,1,0.1429
+2023-02-01,22,Basic,Partner,9,3,0.3333
+2023-02-01,22,Enterprise,Organic,2,1,0.5000
+2023-02-01,22,Enterprise,Outbound,2,1,0.5000
+2023-02-01,22,Enterprise,"Paid Search",5,2,0.4000
+2023-02-01,22,Enterprise,Partner,2,1,0.5000
+2023-02-01,22,Pro,Organic,6,4,0.6667
+2023-02-01,22,Pro,Outbound,1,1,1.0000
+2023-02-01,22,Pro,"Paid Search",6,4,0.6667
+2023-02-01,22,Pro,Partner,6,2,0.3333
+2023-03-01,0,Basic,Organic,11,11,1.0000
+2023-03-01,0,Basic,Outbound,3,3,1.0000
+2023-03-01,0,Basic,"Paid Search",9,9,1.0000
+2023-03-01,0,Basic,Partner,3,3,1.0000
+2023-03-01,0,Enterprise,Organic,3,3,1.0000
+2023-03-01,0,Enterprise,Outbound,2,2,1.0000
+2023-03-01,0,Enterprise,"Paid Search",2,2,1.0000
+2023-03-01,0,Enterprise,Partner,2,2,1.0000
+2023-03-01,0,Pro,Organic,1,1,1.0000
+2023-03-01,0,Pro,Outbound,6,6,1.0000
+2023-03-01,0,Pro,"Paid Search",6,6,1.0000
+2023-03-01,0,Pro,Partner,1,1,1.0000
+2023-03-01,1,Basic,Organic,11,11,1.0000
+2023-03-01,1,Basic,Outbound,3,3,1.0000
+2023-03-01,1,Basic,"Paid Search",9,9,1.0000
+2023-03-01,1,Basic,Partner,3,3,1.0000
+2023-03-01,1,Enterprise,Organic,3,3,1.0000
+2023-03-01,1,Enterprise,Outbound,2,2,1.0000
+2023-03-01,1,Enterprise,"Paid Search",2,2,1.0000
+2023-03-01,1,Enterprise,Partner,2,2,1.0000
+2023-03-01,1,Pro,Organic,1,1,1.0000
+2023-03-01,1,Pro,Outbound,6,6,1.0000
+2023-03-01,1,Pro,"Paid Search",6,6,1.0000
+2023-03-01,1,Pro,Partner,1,1,1.0000
+2023-03-01,2,Basic,Organic,11,10,0.9091
+2023-03-01,2,Basic,Outbound,3,2,0.6667
+2023-03-01,2,Basic,"Paid Search",9,8,0.8889
+2023-03-01,2,Basic,Partner,3,3,1.0000
+2023-03-01,2,Enterprise,Organic,3,3,1.0000
+2023-03-01,2,Enterprise,Outbound,2,2,1.0000
+2023-03-01,2,Enterprise,"Paid Search",2,2,1.0000
+2023-03-01,2,Enterprise,Partner,2,2,1.0000
+2023-03-01,2,Pro,Organic,1,1,1.0000
+2023-03-01,2,Pro,Outbound,6,5,0.8333
+2023-03-01,2,Pro,"Paid Search",6,6,1.0000
+2023-03-01,2,Pro,Partner,1,1,1.0000
+2023-03-01,3,Basic,Organic,11,10,0.9091
+2023-03-01,3,Basic,Outbound,3,2,0.6667
+2023-03-01,3,Basic,"Paid Search",9,7,0.7778
+2023-03-01,3,Basic,Partner,3,2,0.6667
+2023-03-01,3,Enterprise,Organic,3,3,1.0000
+2023-03-01,3,Enterprise,Outbound,2,2,1.0000
+2023-03-01,3,Enterprise,"Paid Search",2,2,1.0000
+2023-03-01,3,Enterprise,Partner,2,2,1.0000
+2023-03-01,3,Pro,Organic,1,1,1.0000
+2023-03-01,3,Pro,Outbound,6,5,0.8333
+2023-03-01,3,Pro,"Paid Search",6,6,1.0000
+2023-03-01,3,Pro,Partner,1,1,1.0000
+2023-03-01,4,Basic,Organic,11,9,0.8182
+2023-03-01,4,Basic,Outbound,3,1,0.3333
+2023-03-01,4,Basic,"Paid Search",9,6,0.6667
+2023-03-01,4,Basic,Partner,3,2,0.6667
+2023-03-01,4,Enterprise,Organic,3,3,1.0000
+2023-03-01,4,Enterprise,Outbound,2,2,1.0000
+2023-03-01,4,Enterprise,"Paid Search",2,2,1.0000
+2023-03-01,4,Enterprise,Partner,2,2,1.0000
+2023-03-01,4,Pro,Organic,1,1,1.0000
+2023-03-01,4,Pro,Outbound,6,5,0.8333
+2023-03-01,4,Pro,"Paid Search",6,6,1.0000
+2023-03-01,4,Pro,Partner,1,1,1.0000
+2023-03-01,5,Basic,Organic,11,9,0.8182
+2023-03-01,5,Basic,"Paid Search",9,6,0.6667
+2023-03-01,5,Basic,Partner,3,1,0.3333
+2023-03-01,5,Enterprise,Organic,3,2,0.6667
+2023-03-01,5,Enterprise,Outbound,2,2,1.0000
+2023-03-01,5,Enterprise,"Paid Search",2,2,1.0000
+2023-03-01,5,Enterprise,Partner,2,2,1.0000
+2023-03-01,5,Pro,Organic,1,1,1.0000
+2023-03-01,5,Pro,Outbound,6,5,0.8333
+2023-03-01,5,Pro,"Paid Search",6,6,1.0000
+2023-03-01,5,Pro,Partner,1,1,1.0000
+2023-03-01,6,Basic,Organic,11,9,0.8182
+2023-03-01,6,Basic,"Paid Search",9,6,0.6667
+2023-03-01,6,Basic,Partner,3,1,0.3333
+2023-03-01,6,Enterprise,Organic,3,2,0.6667
+2023-03-01,6,Enterprise,Outbound,2,2,1.0000
+2023-03-01,6,Enterprise,"Paid Search",2,2,1.0000
+2023-03-01,6,Enterprise,Partner,2,2,1.0000
+2023-03-01,6,Pro,Organic,1,1,1.0000
+2023-03-01,6,Pro,Outbound,6,4,0.6667
+2023-03-01,6,Pro,"Paid Search",6,6,1.0000
+2023-03-01,6,Pro,Partner,1,1,1.0000
+2023-03-01,7,Basic,Organic,11,9,0.8182
+2023-03-01,7,Basic,"Paid Search",9,6,0.6667
+2023-03-01,7,Basic,Partner,3,1,0.3333
+2023-03-01,7,Enterprise,Organic,3,2,0.6667
+2023-03-01,7,Enterprise,Outbound,2,2,1.0000
+2023-03-01,7,Enterprise,"Paid Search",2,2,1.0000
+2023-03-01,7,Enterprise,Partner,2,2,1.0000
+2023-03-01,7,Pro,Organic,1,1,1.0000
+2023-03-01,7,Pro,Outbound,6,4,0.6667
+2023-03-01,7,Pro,"Paid Search",6,6,1.0000
+2023-03-01,7,Pro,Partner,1,1,1.0000
+2023-03-01,8,Basic,Organic,11,8,0.7273
+2023-03-01,8,Basic,"Paid Search",9,6,0.6667
+2023-03-01,8,Basic,Partner,3,1,0.3333
+2023-03-01,8,Enterprise,Organic,3,2,0.6667
+2023-03-01,8,Enterprise,Outbound,2,2,1.0000
+2023-03-01,8,Enterprise,"Paid Search",2,2,1.0000
+2023-03-01,8,Enterprise,Partner,2,2,1.0000
+2023-03-01,8,Pro,Organic,1,1,1.0000
+2023-03-01,8,Pro,Outbound,6,3,0.5000
+2023-03-01,8,Pro,"Paid Search",6,6,1.0000
+2023-03-01,8,Pro,Partner,1,1,1.0000
+2023-03-01,9,Basic,Organic,11,8,0.7273
+2023-03-01,9,Basic,"Paid Search",9,6,0.6667
+2023-03-01,9,Basic,Partner,3,1,0.3333
+2023-03-01,9,Enterprise,Organic,3,2,0.6667
+2023-03-01,9,Enterprise,Outbound,2,2,1.0000
+2023-03-01,9,Enterprise,"Paid Search",2,2,1.0000
+2023-03-01,9,Enterprise,Partner,2,2,1.0000
+2023-03-01,9,Pro,Organic,1,1,1.0000
+2023-03-01,9,Pro,Outbound,6,3,0.5000
+2023-03-01,9,Pro,"Paid Search",6,6,1.0000
+2023-03-01,9,Pro,Partner,1,1,1.0000
+2023-03-01,10,Basic,Organic,11,8,0.7273
+2023-03-01,10,Basic,"Paid Search",9,6,0.6667
+2023-03-01,10,Basic,Partner,3,1,0.3333
+2023-03-01,10,Enterprise,Organic,3,2,0.6667
+2023-03-01,10,Enterprise,Outbound,2,2,1.0000
+2023-03-01,10,Enterprise,"Paid Search",2,2,1.0000
+2023-03-01,10,Enterprise,Partner,2,2,1.0000
+2023-03-01,10,Pro,Organic,1,1,1.0000
+2023-03-01,10,Pro,Outbound,6,3,0.5000
+2023-03-01,10,Pro,"Paid Search",6,6,1.0000
+2023-03-01,10,Pro,Partner,1,1,1.0000
+2023-03-01,11,Basic,Organic,11,7,0.6364
+2023-03-01,11,Basic,"Paid Search",9,6,0.6667
+2023-03-01,11,Basic,Partner,3,1,0.3333
+2023-03-01,11,Enterprise,Organic,3,2,0.6667
+2023-03-01,11,Enterprise,Outbound,2,2,1.0000
+2023-03-01,11,Enterprise,"Paid Search",2,2,1.0000
+2023-03-01,11,Enterprise,Partner,2,2,1.0000
+2023-03-01,11,Pro,Organic,1,1,1.0000
+2023-03-01,11,Pro,Outbound,6,3,0.5000
+2023-03-01,11,Pro,"Paid Search",6,4,0.6667
+2023-03-01,11,Pro,Partner,1,1,1.0000
+2023-03-01,12,Basic,Organic,11,6,0.5455
+2023-03-01,12,Basic,"Paid Search",9,6,0.6667
+2023-03-01,12,Basic,Partner,3,1,0.3333
+2023-03-01,12,Enterprise,Organic,3,2,0.6667
+2023-03-01,12,Enterprise,Outbound,2,2,1.0000
+2023-03-01,12,Enterprise,"Paid Search",2,2,1.0000
+2023-03-01,12,Enterprise,Partner,2,2,1.0000
+2023-03-01,12,Pro,Organic,1,1,1.0000
+2023-03-01,12,Pro,Outbound,6,3,0.5000
+2023-03-01,12,Pro,"Paid Search",6,4,0.6667
+2023-03-01,12,Pro,Partner,1,1,1.0000
+2023-03-01,13,Basic,Organic,11,6,0.5455
+2023-03-01,13,Basic,"Paid Search",9,5,0.5556
+2023-03-01,13,Basic,Partner,3,1,0.3333
+2023-03-01,13,Enterprise,Organic,3,2,0.6667
+2023-03-01,13,Enterprise,Outbound,2,2,1.0000
+2023-03-01,13,Enterprise,"Paid Search",2,2,1.0000
+2023-03-01,13,Enterprise,Partner,2,2,1.0000
+2023-03-01,13,Pro,Organic,1,1,1.0000
+2023-03-01,13,Pro,Outbound,6,3,0.5000
+2023-03-01,13,Pro,"Paid Search",6,4,0.6667
+2023-03-01,14,Basic,Organic,11,6,0.5455
+2023-03-01,14,Basic,"Paid Search",9,5,0.5556
+2023-03-01,14,Basic,Partner,3,1,0.3333
+2023-03-01,14,Enterprise,Organic,3,2,0.6667
+2023-03-01,14,Enterprise,Outbound,2,2,1.0000
+2023-03-01,14,Enterprise,"Paid Search",2,2,1.0000
+2023-03-01,14,Enterprise,Partner,2,2,1.0000
+2023-03-01,14,Pro,Organic,1,1,1.0000
+2023-03-01,14,Pro,Outbound,6,3,0.5000
+2023-03-01,14,Pro,"Paid Search",6,3,0.5000
+2023-03-01,15,Basic,Organic,11,6,0.5455
+2023-03-01,15,Basic,"Paid Search",9,5,0.5556
+2023-03-01,15,Enterprise,Organic,3,2,0.6667
+2023-03-01,15,Enterprise,Outbound,2,2,1.0000
+2023-03-01,15,Enterprise,"Paid Search",2,2,1.0000
+2023-03-01,15,Enterprise,Partner,2,2,1.0000
+2023-03-01,15,Pro,Organic,1,1,1.0000
+2023-03-01,15,Pro,Outbound,6,3,0.5000
+2023-03-01,15,Pro,"Paid Search",6,3,0.5000
+2023-03-01,16,Basic,Organic,11,6,0.5455
+2023-03-01,16,Basic,"Paid Search",9,5,0.5556
+2023-03-01,16,Enterprise,Organic,3,2,0.6667
+2023-03-01,16,Enterprise,Outbound,2,2,1.0000
+2023-03-01,16,Enterprise,"Paid Search",2,2,1.0000
+2023-03-01,16,Enterprise,Partner,2,2,1.0000
+2023-03-01,16,Pro,Organic,1,1,1.0000
+2023-03-01,16,Pro,Outbound,6,3,0.5000
+2023-03-01,16,Pro,"Paid Search",6,3,0.5000
+2023-03-01,17,Basic,Organic,11,6,0.5455
+2023-03-01,17,Basic,"Paid Search",9,5,0.5556
+2023-03-01,17,Enterprise,Organic,3,1,0.3333
+2023-03-01,17,Enterprise,Outbound,2,2,1.0000
+2023-03-01,17,Enterprise,"Paid Search",2,2,1.0000
+2023-03-01,17,Enterprise,Partner,2,2,1.0000
+2023-03-01,17,Pro,Organic,1,1,1.0000
+2023-03-01,17,Pro,Outbound,6,3,0.5000
+2023-03-01,17,Pro,"Paid Search",6,3,0.5000
+2023-03-01,18,Basic,Organic,11,6,0.5455
+2023-03-01,18,Basic,"Paid Search",9,4,0.4444
+2023-03-01,18,Enterprise,Organic,3,1,0.3333
+2023-03-01,18,Enterprise,Outbound,2,2,1.0000
+2023-03-01,18,Enterprise,"Paid Search",2,2,1.0000
+2023-03-01,18,Enterprise,Partner,2,2,1.0000
+2023-03-01,18,Pro,Organic,1,1,1.0000
+2023-03-01,18,Pro,Outbound,6,3,0.5000
+2023-03-01,18,Pro,"Paid Search",6,3,0.5000
+2023-03-01,19,Basic,Organic,11,6,0.5455
+2023-03-01,19,Basic,"Paid Search",9,4,0.4444
+2023-03-01,19,Enterprise,Organic,3,1,0.3333
+2023-03-01,19,Enterprise,Outbound,2,2,1.0000
+2023-03-01,19,Enterprise,"Paid Search",2,2,1.0000
+2023-03-01,19,Enterprise,Partner,2,2,1.0000
+2023-03-01,19,Pro,Organic,1,1,1.0000
+2023-03-01,19,Pro,Outbound,6,2,0.3333
+2023-03-01,19,Pro,"Paid Search",6,3,0.5000
+2023-03-01,20,Basic,Organic,11,6,0.5455
+2023-03-01,20,Basic,"Paid Search",9,4,0.4444
+2023-03-01,20,Enterprise,Organic,3,1,0.3333
+2023-03-01,20,Enterprise,Outbound,2,2,1.0000
+2023-03-01,20,Enterprise,"Paid Search",2,2,1.0000
+2023-03-01,20,Enterprise,Partner,2,2,1.0000
+2023-03-01,20,Pro,Organic,1,1,1.0000
+2023-03-01,20,Pro,Outbound,6,2,0.3333
+2023-03-01,20,Pro,"Paid Search",6,3,0.5000
+2023-03-01,21,Basic,Organic,11,6,0.5455
+2023-03-01,21,Basic,"Paid Search",9,4,0.4444
+2023-03-01,21,Enterprise,Organic,3,1,0.3333
+2023-03-01,21,Enterprise,Outbound,2,2,1.0000
+2023-03-01,21,Enterprise,"Paid Search",2,2,1.0000
+2023-03-01,21,Enterprise,Partner,2,2,1.0000
+2023-03-01,21,Pro,Organic,1,1,1.0000
+2023-03-01,21,Pro,Outbound,6,2,0.3333
+2023-03-01,21,Pro,"Paid Search",6,3,0.5000
+2023-04-01,0,Basic,Organic,5,5,1.0000
+2023-04-01,0,Basic,Outbound,2,2,1.0000
+2023-04-01,0,Basic,"Paid Search",6,6,1.0000
+2023-04-01,0,Basic,Partner,9,9,1.0000
+2023-04-01,0,Enterprise,Organic,5,5,1.0000
+2023-04-01,0,Enterprise,Outbound,1,1,1.0000
+2023-04-01,0,Enterprise,"Paid Search",6,6,1.0000
+2023-04-01,0,Enterprise,Partner,5,5,1.0000
+2023-04-01,0,Pro,Organic,10,10,1.0000
+2023-04-01,0,Pro,Outbound,3,3,1.0000
+2023-04-01,0,Pro,"Paid Search",9,9,1.0000
+2023-04-01,0,Pro,Partner,3,3,1.0000
+2023-04-01,1,Basic,Organic,5,5,1.0000
+2023-04-01,1,Basic,Outbound,2,2,1.0000
+2023-04-01,1,Basic,"Paid Search",6,6,1.0000
+2023-04-01,1,Basic,Partner,9,9,1.0000
+2023-04-01,1,Enterprise,Organic,5,5,1.0000
+2023-04-01,1,Enterprise,Outbound,1,1,1.0000
+2023-04-01,1,Enterprise,"Paid Search",6,6,1.0000
+2023-04-01,1,Enterprise,Partner,5,5,1.0000
+2023-04-01,1,Pro,Organic,10,10,1.0000
+2023-04-01,1,Pro,Outbound,3,3,1.0000
+2023-04-01,1,Pro,"Paid Search",9,9,1.0000
+2023-04-01,1,Pro,Partner,3,3,1.0000
+2023-04-01,2,Basic,Organic,5,5,1.0000
+2023-04-01,2,Basic,Outbound,2,2,1.0000
+2023-04-01,2,Basic,"Paid Search",6,6,1.0000
+2023-04-01,2,Basic,Partner,9,8,0.8889
+2023-04-01,2,Enterprise,Organic,5,5,1.0000
+2023-04-01,2,Enterprise,Outbound,1,1,1.0000
+2023-04-01,2,Enterprise,"Paid Search",6,6,1.0000
+2023-04-01,2,Enterprise,Partner,5,5,1.0000
+2023-04-01,2,Pro,Organic,10,10,1.0000
+2023-04-01,2,Pro,Outbound,3,3,1.0000
+2023-04-01,2,Pro,"Paid Search",9,9,1.0000
+2023-04-01,2,Pro,Partner,3,3,1.0000
+2023-04-01,3,Basic,Organic,5,5,1.0000
+2023-04-01,3,Basic,Outbound,2,2,1.0000
+2023-04-01,3,Basic,"Paid Search",6,6,1.0000
+2023-04-01,3,Basic,Partner,9,8,0.8889
+2023-04-01,3,Enterprise,Organic,5,5,1.0000
+2023-04-01,3,Enterprise,Outbound,1,1,1.0000
+2023-04-01,3,Enterprise,"Paid Search",6,6,1.0000
+2023-04-01,3,Enterprise,Partner,5,5,1.0000
+2023-04-01,3,Pro,Organic,10,9,0.9000
+2023-04-01,3,Pro,Outbound,3,3,1.0000
+2023-04-01,3,Pro,"Paid Search",9,9,1.0000
+2023-04-01,3,Pro,Partner,3,3,1.0000
+2023-04-01,4,Basic,Organic,5,5,1.0000
+2023-04-01,4,Basic,Outbound,2,2,1.0000
+2023-04-01,4,Basic,"Paid Search",6,6,1.0000
+2023-04-01,4,Basic,Partner,9,7,0.7778
+2023-04-01,4,Enterprise,Organic,5,5,1.0000
+2023-04-01,4,Enterprise,Outbound,1,1,1.0000
+2023-04-01,4,Enterprise,"Paid Search",6,6,1.0000
+2023-04-01,4,Enterprise,Partner,5,5,1.0000
+2023-04-01,4,Pro,Organic,10,9,0.9000
+2023-04-01,4,Pro,Outbound,3,3,1.0000
+2023-04-01,4,Pro,"Paid Search",9,9,1.0000
+2023-04-01,4,Pro,Partner,3,3,1.0000
+2023-04-01,5,Basic,Organic,5,4,0.8000
+2023-04-01,5,Basic,Outbound,2,2,1.0000
+2023-04-01,5,Basic,"Paid Search",6,6,1.0000
+2023-04-01,5,Basic,Partner,9,6,0.6667
+2023-04-01,5,Enterprise,Organic,5,5,1.0000
+2023-04-01,5,Enterprise,Outbound,1,1,1.0000
+2023-04-01,5,Enterprise,"Paid Search",6,6,1.0000
+2023-04-01,5,Enterprise,Partner,5,5,1.0000
+2023-04-01,5,Pro,Organic,10,8,0.8000
+2023-04-01,5,Pro,Outbound,3,2,0.6667
+2023-04-01,5,Pro,"Paid Search",9,8,0.8889
+2023-04-01,5,Pro,Partner,3,3,1.0000
+2023-04-01,6,Basic,Organic,5,4,0.8000
+2023-04-01,6,Basic,Outbound,2,2,1.0000
+2023-04-01,6,Basic,"Paid Search",6,5,0.8333
+2023-04-01,6,Basic,Partner,9,6,0.6667
+2023-04-01,6,Enterprise,Organic,5,5,1.0000
+2023-04-01,6,Enterprise,Outbound,1,1,1.0000
+2023-04-01,6,Enterprise,"Paid Search",6,6,1.0000
+2023-04-01,6,Enterprise,Partner,5,5,1.0000
+2023-04-01,6,Pro,Organic,10,7,0.7000
+2023-04-01,6,Pro,Outbound,3,2,0.6667
+2023-04-01,6,Pro,"Paid Search",9,7,0.7778
+2023-04-01,6,Pro,Partner,3,3,1.0000
+2023-04-01,7,Basic,Organic,5,3,0.6000
+2023-04-01,7,Basic,Outbound,2,2,1.0000
+2023-04-01,7,Basic,"Paid Search",6,4,0.6667
+2023-04-01,7,Basic,Partner,9,6,0.6667
+2023-04-01,7,Enterprise,Organic,5,5,1.0000
+2023-04-01,7,Enterprise,Outbound,1,1,1.0000
+2023-04-01,7,Enterprise,"Paid Search",6,6,1.0000
+2023-04-01,7,Enterprise,Partner,5,5,1.0000
+2023-04-01,7,Pro,Organic,10,6,0.6000
+2023-04-01,7,Pro,Outbound,3,2,0.6667
+2023-04-01,7,Pro,"Paid Search",9,7,0.7778
+2023-04-01,7,Pro,Partner,3,3,1.0000
+2023-04-01,8,Basic,Organic,5,3,0.6000
+2023-04-01,8,Basic,Outbound,2,2,1.0000
+2023-04-01,8,Basic,"Paid Search",6,4,0.6667
+2023-04-01,8,Basic,Partner,9,6,0.6667
+2023-04-01,8,Enterprise,Organic,5,5,1.0000
+2023-04-01,8,Enterprise,Outbound,1,1,1.0000
+2023-04-01,8,Enterprise,"Paid Search",6,6,1.0000
+2023-04-01,8,Enterprise,Partner,5,5,1.0000
+2023-04-01,8,Pro,Organic,10,6,0.6000
+2023-04-01,8,Pro,Outbound,3,2,0.6667
+2023-04-01,8,Pro,"Paid Search",9,7,0.7778
+2023-04-01,8,Pro,Partner,3,3,1.0000
+2023-04-01,9,Basic,Organic,5,3,0.6000
+2023-04-01,9,Basic,Outbound,2,2,1.0000
+2023-04-01,9,Basic,"Paid Search",6,4,0.6667
+2023-04-01,9,Basic,Partner,9,6,0.6667
+2023-04-01,9,Enterprise,Organic,5,5,1.0000
+2023-04-01,9,Enterprise,Outbound,1,1,1.0000
+2023-04-01,9,Enterprise,"Paid Search",6,6,1.0000
+2023-04-01,9,Enterprise,Partner,5,5,1.0000
+2023-04-01,9,Pro,Organic,10,6,0.6000
+2023-04-01,9,Pro,Outbound,3,2,0.6667
+2023-04-01,9,Pro,"Paid Search",9,7,0.7778
+2023-04-01,9,Pro,Partner,3,3,1.0000
+2023-04-01,10,Basic,Organic,5,3,0.6000
+2023-04-01,10,Basic,Outbound,2,2,1.0000
+2023-04-01,10,Basic,"Paid Search",6,3,0.5000
+2023-04-01,10,Basic,Partner,9,6,0.6667
+2023-04-01,10,Enterprise,Organic,5,4,0.8000
+2023-04-01,10,Enterprise,Outbound,1,1,1.0000
+2023-04-01,10,Enterprise,"Paid Search",6,6,1.0000
+2023-04-01,10,Enterprise,Partner,5,5,1.0000
+2023-04-01,10,Pro,Organic,10,6,0.6000
+2023-04-01,10,Pro,Outbound,3,2,0.6667
+2023-04-01,10,Pro,"Paid Search",9,7,0.7778
+2023-04-01,10,Pro,Partner,3,3,1.0000
+2023-04-01,11,Basic,Organic,5,2,0.4000
+2023-04-01,11,Basic,Outbound,2,2,1.0000
+2023-04-01,11,Basic,"Paid Search",6,3,0.5000
+2023-04-01,11,Basic,Partner,9,6,0.6667
+2023-04-01,11,Enterprise,Organic,5,4,0.8000
+2023-04-01,11,Enterprise,Outbound,1,1,1.0000
+2023-04-01,11,Enterprise,"Paid Search",6,6,1.0000
+2023-04-01,11,Enterprise,Partner,5,5,1.0000
+2023-04-01,11,Pro,Organic,10,6,0.6000
+2023-04-01,11,Pro,Outbound,3,2,0.6667
+2023-04-01,11,Pro,"Paid Search",9,7,0.7778
+2023-04-01,11,Pro,Partner,3,3,1.0000
+2023-04-01,12,Basic,Organic,5,2,0.4000
+2023-04-01,12,Basic,Outbound,2,2,1.0000
+2023-04-01,12,Basic,"Paid Search",6,3,0.5000
+2023-04-01,12,Basic,Partner,9,5,0.5556
+2023-04-01,12,Enterprise,Organic,5,4,0.8000
+2023-04-01,12,Enterprise,Outbound,1,1,1.0000
+2023-04-01,12,Enterprise,"Paid Search",6,5,0.8333
+2023-04-01,12,Enterprise,Partner,5,5,1.0000
+2023-04-01,12,Pro,Organic,10,6,0.6000
+2023-04-01,12,Pro,Outbound,3,2,0.6667
+2023-04-01,12,Pro,"Paid Search",9,7,0.7778
+2023-04-01,12,Pro,Partner,3,3,1.0000
+2023-04-01,13,Basic,Organic,5,2,0.4000
+2023-04-01,13,Basic,Outbound,2,2,1.0000
+2023-04-01,13,Basic,"Paid Search",6,3,0.5000
+2023-04-01,13,Basic,Partner,9,5,0.5556
+2023-04-01,13,Enterprise,Organic,5,4,0.8000
+2023-04-01,13,Enterprise,Outbound,1,1,1.0000
+2023-04-01,13,Enterprise,"Paid Search",6,5,0.8333
+2023-04-01,13,Enterprise,Partner,5,5,1.0000
+2023-04-01,13,Pro,Organic,10,6,0.6000
+2023-04-01,13,Pro,Outbound,3,2,0.6667
+2023-04-01,13,Pro,"Paid Search",9,7,0.7778
+2023-04-01,13,Pro,Partner,3,3,1.0000
+2023-04-01,14,Basic,Organic,5,2,0.4000
+2023-04-01,14,Basic,Outbound,2,2,1.0000
+2023-04-01,14,Basic,"Paid Search",6,3,0.5000
+2023-04-01,14,Basic,Partner,9,4,0.4444
+2023-04-01,14,Enterprise,Organic,5,4,0.8000
+2023-04-01,14,Enterprise,Outbound,1,1,1.0000
+2023-04-01,14,Enterprise,"Paid Search",6,5,0.8333
+2023-04-01,14,Enterprise,Partner,5,5,1.0000
+2023-04-01,14,Pro,Organic,10,5,0.5000
+2023-04-01,14,Pro,Outbound,3,2,0.6667
+2023-04-01,14,Pro,"Paid Search",9,7,0.7778
+2023-04-01,14,Pro,Partner,3,3,1.0000
+2023-04-01,15,Basic,Organic,5,2,0.4000
+2023-04-01,15,Basic,Outbound,2,2,1.0000
+2023-04-01,15,Basic,"Paid Search",6,3,0.5000
+2023-04-01,15,Basic,Partner,9,4,0.4444
+2023-04-01,15,Enterprise,Organic,5,4,0.8000
+2023-04-01,15,Enterprise,Outbound,1,1,1.0000
+2023-04-01,15,Enterprise,"Paid Search",6,5,0.8333
+2023-04-01,15,Enterprise,Partner,5,5,1.0000
+2023-04-01,15,Pro,Organic,10,5,0.5000
+2023-04-01,15,Pro,Outbound,3,2,0.6667
+2023-04-01,15,Pro,"Paid Search",9,7,0.7778
+2023-04-01,15,Pro,Partner,3,3,1.0000
+2023-04-01,16,Basic,Organic,5,2,0.4000
+2023-04-01,16,Basic,Outbound,2,2,1.0000
+2023-04-01,16,Basic,"Paid Search",6,3,0.5000
+2023-04-01,16,Basic,Partner,9,4,0.4444
+2023-04-01,16,Enterprise,Organic,5,4,0.8000
+2023-04-01,16,Enterprise,Outbound,1,1,1.0000
+2023-04-01,16,Enterprise,"Paid Search",6,5,0.8333
+2023-04-01,16,Enterprise,Partner,5,5,1.0000
+2023-04-01,16,Pro,Organic,10,5,0.5000
+2023-04-01,16,Pro,Outbound,3,2,0.6667
+2023-04-01,16,Pro,"Paid Search",9,7,0.7778
+2023-04-01,16,Pro,Partner,3,3,1.0000
+2023-04-01,17,Basic,Organic,5,2,0.4000
+2023-04-01,17,Basic,Outbound,2,2,1.0000
+2023-04-01,17,Basic,"Paid Search",6,3,0.5000
+2023-04-01,17,Basic,Partner,9,3,0.3333
+2023-04-01,17,Enterprise,Organic,5,4,0.8000
+2023-04-01,17,Enterprise,Outbound,1,1,1.0000
+2023-04-01,17,Enterprise,"Paid Search",6,5,0.8333
+2023-04-01,17,Enterprise,Partner,5,5,1.0000
+2023-04-01,17,Pro,Organic,10,5,0.5000
+2023-04-01,17,Pro,Outbound,3,2,0.6667
+2023-04-01,17,Pro,"Paid Search",9,7,0.7778
+2023-04-01,17,Pro,Partner,3,3,1.0000
+2023-04-01,18,Basic,Organic,5,2,0.4000
+2023-04-01,18,Basic,Outbound,2,2,1.0000
+2023-04-01,18,Basic,"Paid Search",6,3,0.5000
+2023-04-01,18,Basic,Partner,9,2,0.2222
+2023-04-01,18,Enterprise,Organic,5,4,0.8000
+2023-04-01,18,Enterprise,Outbound,1,1,1.0000
+2023-04-01,18,Enterprise,"Paid Search",6,5,0.8333
+2023-04-01,18,Enterprise,Partner,5,5,1.0000
+2023-04-01,18,Pro,Organic,10,5,0.5000
+2023-04-01,18,Pro,Outbound,3,2,0.6667
+2023-04-01,18,Pro,"Paid Search",9,7,0.7778
+2023-04-01,18,Pro,Partner,3,3,1.0000
+2023-04-01,19,Basic,Organic,5,2,0.4000
