@@ -176,26 +176,28 @@ NRR and GRR split by plan and acquisition channel.
 
 ## Power BI Dashboards
 
-### Dashboard 1 — SaaS Cohort Overview & KPIs
+### Dashboard 1 - SaaS_Cohort_Revenue_Retention_Analytics_Overview
 
 The main executive summary dashboard. Shows all primary KPIs (Logo Retention M12, NRR M12, GRR M12, Quick Ratio, Blended MRR), a full cohort heatmap (cohort × months since signup), MRR waterfall, NRR trajectory for oldest cohorts, MRR decay curves, and a segment summary by channel and plan.
+![SaaS Cohort & Revenue Retention Analytics Overview](dashboards/SaaS_Cohort_Revenue_Retention_Analytics_Overview.jpg)
 
 
 
 ***
 
-### Dashboard 2 — Cohort Benchmarks (All 24 Cohorts)
+### Dashboard 2 — Segment Analysis (Channel × Plan)
 
 Side-by-side comparison of all 24 cohorts. Includes KPI cards for best/worst cohort and portfolio averages, bar charts for Logo Retention M12, NRR M12, and Start MRR by cohort, ranked Top 5 / Bottom 5 cohort tables, and the full benchmark data table with M3/M6/M12 metrics.
+![Segment Analysis -- Channel x Plan](dashboards/Segment_Analysis_Channel_x_Plan.jpg)
 
 
 
 ***
 
-### Dashboard 3 — Segment Analysis (Channel × Plan)
+### Dashboard 3 — Cohort Benchmarks (All 24 Cohorts) 
 
 Drill-down into the 12 plan × channel segments (3 plans × 4 channels). Includes NRR and GRR matrix tables, trajectory line charts M0 → M12, grouped bar charts at M6, logo retention curves, a churn-risk scatter plot (NRR vs logo retention), and active account counts at M12. Filterable by Initial Plan and Acquisition Channel slicers.
-
+![Cohort Benchmarks -- All 24 Cohorts](dashboards/Cohort_Benchmarks_All_24_Cohorts.jpg)
 
 
 ***
