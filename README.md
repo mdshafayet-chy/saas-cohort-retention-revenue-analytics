@@ -11,6 +11,7 @@
 - [Data Model](#data-model)
 - [Metric Definitions](#metric-definitions)
 - [Power BI Dashboards](#power-bi-dashboards)
+- [Business Recommendations](#business-recommendations)
 - [How to Reproduce](#how-to-reproduce)
 - [Skills Demonstrated](#skills-demonstrated)
 - [Author](#author)
@@ -234,6 +235,19 @@ Drill-down into the 12 plan × channel segments (3 plans × 4 channels). Include
 
 ***
 
+***
+
+## 💡 Business Recommendations
+
+| # | Area | Finding | Recommendation |
+|---|---|---|---|
+| 1 | 🚨 Onboarding | ~19.5pp logo loss in M1–M3 — steepest churn window | Introduce structured onboarding with activation milestones and 30-day proactive check-ins |
+| 2 | 🏢 Enterprise Retention | Enterprise = 74% of MRR; 1 lost account ≈ 10+ Basic accounts | Assign dedicated CSMs, quarterly business reviews, and 90-day renewal workflows |
+| 3 | 📈 Upsell / Expansion | Expansion MRR Share only 23.1%; Quick Ratio barely at 1.10 | Build upgrade prompts at 80% plan usage limits; target Basic → Pro conversion |
+| 4 | ⚠️ Basic / Partner Segment | NRR 47.6% — worst segment by far | Evaluate CAC vs. LTV; restrict or restructure Basic plan on the Partner channel |
+| 5 | 📣 Channel Strategy | NRR nearly identical across all channels (95–101%) | Stop optimizing by channel quality; shift focus to CAC efficiency and volume |
+| 6 | 📉 Cohort Trend | Best cohort 2023-04 (70.3%); worst 2024-01 (50.0%) — declining trend | Alert when M3 retention drops below 75%; investigate 2024 cohort quality drivers |
+
 ## How to Reproduce
 
 ### Step 1 — Load Raw Data into MySQL
@@ -288,7 +302,7 @@ Export each view as a `.csv` file into the `data/views/` folder. These CSV files
 
 **Md Shafayet Hossen Chowdhury**
 M.Sc. Data Science · Data Analyst Enthusiast
-📧 [mdshfayet.chowdury@gmail.com.com]
+📧 [mdshfayet.chowdury@gmail.com]
 🔗 [[LinkedIn Profile URL](https://www.linkedin.com/in/mdshafayet/)]
 
 
