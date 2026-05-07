@@ -4,6 +4,7 @@
 
 > ## Table of Contents
 - [Project Overview](#project-overview)
+- [Business Questions](#business-questions)
 - [Key Findings](#key-findings)
 - [Tech Stack](#tech-stack)
 - [Repository Structure](#repository-structure)
@@ -21,6 +22,29 @@
 A complete SaaS analytics pipeline built from raw subscription data to executive-ready Power BI dashboards. The project tracks **1,500 accounts** across **24 monthly cohorts** (January 2023 – December 2024), computing industry-standard retention metrics — Logo Retention, Net Revenue Retention (NRR), and Gross Revenue Retention (GRR) — at the cohort, segment, and account level.
 
 The goal was to answer a core business question: **Which customers stay, which churn, and where does revenue leak?**
+
+## Business Questions
+
+This project was designed to answer the following analytical questions, structured from strategic to tactical:
+
+### 🔍 Retention & Churn
+1. **What percentage of accounts are still active 12 months after signup?** — Is the business retaining customers at a healthy rate?
+2. **When does churn happen most — early (M1–M3) or later in the lifecycle?** — Where should onboarding efforts be focused?
+3. **Which cohort has the best and worst logo retention at M12?** — Are newer cohorts improving or declining over time?
+
+### 💰 Revenue Retention
+4. **Is the business growing net revenue from existing customers (NRR ≥ 100%)?** — Is expansion revenue covering churn losses?
+5. **How much revenue is lost purely from churn and contraction (GRR)?** — Are we hitting the ≥95% gross retention benchmark?
+6. **How strong is expansion MRR relative to total growth?** — Is the upsell/cross-sell motion contributing meaningfully?
+
+### 📊 Segment Analysis
+7. **Which plan tier (Basic / Pro / Enterprise) retains the most revenue?** — Does plan quality correlate with retention?
+8. **Which acquisition channel brings the most loyal customers?** — Is outbound or organic more valuable long-term?
+9. **Which plan × channel combination is the best and worst performing segment?** — Where should growth investment be focused?
+
+***
+
+
 
 ***
 
