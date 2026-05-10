@@ -301,9 +301,10 @@ Export each view as a `.csv` file into the `data/views/` folder. These CSV files
 ## Author
 
 **Md Shafayet Hossen Chowdhury**
-M.Sc. Data Science · Data Analyst Enthusiast
+M.Sc. in Data Science · Data Analyst Enthusiast · SQL · Power BI 
 📧 [mdshfayet.chowdury@gmail.com]
-🔗 [[LinkedIn Profile URL](https://www.linkedin.com/in/mdshafayet/)]
+📍 Potsdam, Germany  
+🔗 [LinkedIn](https://www.linkedin.com/in/mdshafayet/)
 
 
 ***
